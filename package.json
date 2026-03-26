@@ -1,0 +1,6 @@
+json
+{
+  "engines": {
+    "node": "18.x"
+  }
+}
